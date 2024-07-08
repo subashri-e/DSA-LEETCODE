@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
