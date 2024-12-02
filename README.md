@@ -20,6 +20,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
