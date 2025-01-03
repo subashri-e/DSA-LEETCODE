@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2358-number-of-ways-to-split-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
