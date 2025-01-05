@@ -11,6 +11,7 @@
 | [0485-max-consecutive-ones](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2358-number-of-ways-to-split-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -63,4 +65,5 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
