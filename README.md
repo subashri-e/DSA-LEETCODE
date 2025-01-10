@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
@@ -52,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
