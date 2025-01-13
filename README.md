@@ -36,6 +36,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
