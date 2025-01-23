@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1524-string-matching-in-an-array) |
@@ -116,6 +117,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -129,6 +131,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -142,6 +145,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
@@ -149,4 +153,12 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
