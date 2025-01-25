@@ -22,6 +22,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
