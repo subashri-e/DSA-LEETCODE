@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0854-making-a-large-island](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Table
