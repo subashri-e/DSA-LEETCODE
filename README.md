@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
