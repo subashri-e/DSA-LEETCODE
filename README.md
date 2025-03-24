@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1364-tuple-with-same-product) |
@@ -82,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
