@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -86,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1524-string-matching-in-an-array) |
