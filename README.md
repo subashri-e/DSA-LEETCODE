@@ -89,6 +89,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -145,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/subashri-e/DSA-LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Brainteaser
 |  |
