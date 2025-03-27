@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1078-remove-outermost-parentheses) |
