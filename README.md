@@ -231,4 +231,12 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/subashri-e/DSA-LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
