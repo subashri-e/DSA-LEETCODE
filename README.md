@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0620-not-boring-movies) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 ## Prefix Sum
 |  |
