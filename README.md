@@ -119,6 +119,7 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/subashri-e/DSA-LEETCODE/tree/master/0620-not-boring-movies) |
 | [1908-recyclable-and-low-fat-products](https://github.com/subashri-e/DSA-LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
 ## Prefix Sum
 |  |
